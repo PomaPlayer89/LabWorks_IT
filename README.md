@@ -43,6 +43,14 @@
 1. Репозиторий проекта доступен по ссылке: [IT_Project](https://github.com/kxenki/IT_Project)
 2. Веб-страница с описанием проекта доступна по ссылке: [Landing page](https://github.com/aggink/LaboratoryWorks_IT)
 
+## ✅ Лабораторная работа № 3
+
+Работа с Сisco Packet Tracer.
+
+Материалы о выполнении лабораторной работы:
+* Проект: [Project](https://github.com/PomaPlayer89/LabWorks_IT/blob/origin/Network_Setup/Project.pka?raw=true)
+* Информация о конфигурации устройств: [Device Configuration Information](https://github.com/PomaPlayer89/LabWorks_IT/blob/origin/Network_Setup/Device_Configuration_Information.pdf)
+
 ## ✅ Экзаменационные билет №23
 
 Ответ на экзаменационный билет доступен по ссылке:
