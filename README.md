@@ -47,9 +47,10 @@
 
 Работа с Сisco Packet Tracer.
 
-Материалы о выполнении лабораторной работы:
-* Проект: [Project](https://github.com/PomaPlayer89/LabWorks_IT/blob/origin/Network_Setup/Project.pka?raw=true)
-* Информация о конфигурации устройств: [Device Configuration Information](https://github.com/PomaPlayer89/LabWorks_IT/blob/origin/Network_Setup/Device_Configuration_Information.pdf)
+### Работа над проектом ведется в команде.
+1. Репозиторий проекта доступен по ссылке: [IT_Project](https://github.com/kxenki/IT_Project)
+2. Веб-страница с описанием проекта доступна по ссылке: [Landing Page](https://kxenki.github.io/IT_Project/)
+3. Репозиторий c Landing page: [Repository Landing Page](https://github.com/kxenki/IT_Project/tree/LandingPage)
 
 ## ✅ Экзаменационные билет №23
 
