@@ -52,7 +52,7 @@
 2. Веб-страница с описанием проекта доступна по ссылке: [Landing Page](https://kxenki.github.io/IT_Project/)
 3. Репозиторий c Landing page: [Repository Landing Page](https://github.com/kxenki/IT_Project/tree/LandingPage)
 
-## ✅ Экзаменационные билет №23
+## ✅ Экзаменационный билет №23
 
 Ответ на экзаменационный билет доступен по ссылке:
 [билет №23](https://github.com/stankin/inet-2022/wiki/exam23)
