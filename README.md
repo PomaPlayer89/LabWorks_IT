@@ -58,4 +58,4 @@
 
 Ответ на экзаменационный билет доступен по ссылке:
 * [Билет №23 - Понятие доверенной среды. Способы обеспечения доверия в интернете](https://github.com/stankin/inet-2022/wiki/exam23)
-* [Сommitted - Понятие доверенной среды. Способы обеспечения доверия в интернете]([https://github.com/stankin/inet-2022/wiki/exam23/4bdad5ee43dc4c433f9d2309297a92a5504f1025](https://github.com/stankin/inet-2022/wiki/exam23/_compare/4bdad5ee43dc4c433f9d2309297a92a5504f1025...ca0c8a452e22a948aaa82df48d0d2951d762fb2b))
+* [Сommitted - Понятие доверенной среды. Способы обеспечения доверия в интернете]([https://github.com/stankin/inet-2022/wiki/exam23/4bdad5ee43dc4c433f9d2309297a92a5504f1025](https://github.com/stankin/inet-2022/wiki/exam23/_compare/4bdad5ee43dc4c433f9d2309297a92a5504f1025...ca0c8a452e22a948aaa82df48d0d2951d762fb2b)
